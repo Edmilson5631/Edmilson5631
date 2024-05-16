@@ -1,16 +1,19 @@
-### Hi there 👋
+# Sobre Mim
 
-<!--
-**Edmilson5631/Edmilson5631** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá!👋 Eu sou Edmilson Galdino, um entusiasta de tecnologia e iniciante no mundo da programação. Estou muito empenhado em aprender sempre mais e expandir meus conhecimentos na área de desenvolvimento. Atualmente, estou cursando a graduação tecnóloga em Análise e Desenvolvimento de Sistemas e tenho conhecimentos básicos em HTML, CSS e JavaScript.
 
-Here are some ideas to get you started:
+## Habilidades Principais
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Linguagens de Programação:**
+  - HTML (iniciante)
+  - CSS (iniciante)
+  - JavaScript (noções básicas)
+
+## Educação
+
+- **Graduação Tecnóloga:** Análise e Desenvolvimento de Sistemas 
+
+## Objetivos
+
+Estou determinado a me tornar um desenvolvedor competente e contribuir para projetos inovadores. Estou constantemente procurando aprender novas tecnologias e melhorar minhas habilidades existentes.
+
