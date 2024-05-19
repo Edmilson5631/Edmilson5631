@@ -11,7 +11,7 @@ Olá!👋 Eu sou Edmilson Galdino, um entusiasta de tecnologia e iniciante no mu
 
 ## Educação
 
-- **Graduação Tecnóloga:** Análise e Desenvolvimento de Sistemas 
+- **Graduação Tecnóloga:** Análise e Desenvolvimento de Sistemas (CST)
 
 ## Objetivos
 
