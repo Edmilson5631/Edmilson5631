@@ -15,5 +15,5 @@ Olá!👋 Eu sou Edmilson Galdino, um entusiasta de tecnologia e iniciante no mu
 
 ## Objetivos
 
-Estou determinado a me tornar um desenvolvedor competente e contribuir para projetos inovadores. Estou constantemente procurando aprender novas tecnologias e melhorar minhas habilidades existentes.
+Apaixonado pela área da tecnologia, e tenho certeza que posso contribuir em qualquer time com as minhas habilidades! Estou determinado a me tornar um desenvolvedor competente e contribuir para projetos inovadores. Estou constantemente procurando aprender novas tecnologias e melhorar minhas habilidades existentes.
 
