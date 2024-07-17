@@ -1,6 +1,7 @@
 # Sobre Mim
 
-Olá!👋 Eu sou Edmilson Galdino, um entusiasta de tecnologia e iniciante no mundo da programação. Estou muito empenhado em aprender sempre mais e expandir meus conhecimentos na área de desenvolvimento. Atualmente, estou cursando a graduação tecnóloga em Análise e Desenvolvimento de Sistemas e tenho conhecimentos básicos em HTML, CSS e JavaScript.
+Olá!👋 
+Eu sou Edmilson Galdino, um entusiasta de tecnologia e iniciante no mundo da programação. Estou muito empenhado em aprender sempre mais e expandir meus conhecimentos na área de desenvolvimento. Atualmente, estou cursando a graduação tecnóloga em Análise e Desenvolvimento de Sistemas e tenho conhecimentos básicos em HTML, CSS e JavaScript.
 
 ## Habilidades Principais
 
